@@ -1,8 +1,8 @@
 //サーボモーターを制御するためのライブラリをインクルード
 #include<Servo.h>
 
-#define WAIT      50
-#define WAIT_TERM 300
+#define WAIT      100
+#define WAIT_TERM 500
 #define ANG_STA 0
 #define ANG_END 180
 #define ANG_DIF 1
